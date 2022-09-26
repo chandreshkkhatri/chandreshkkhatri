@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Head over to [chandreshkkhatri.github.io](https://chandreshkkhatri.github.io/) for all the fun
 <!--
 **chandreshkkhatri/chandreshkkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
