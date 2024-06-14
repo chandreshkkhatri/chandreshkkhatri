@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am a developer currently between job, using this time for grooming my profile a little. I am writing at https://rehashed.hashnode.dev/. Feel free to reach me at [my email](chandresh.code@gmail.com). 
 <!--
 **chandreshkkhatri/chandreshkkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
