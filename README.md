@@ -13,7 +13,7 @@
 - 🎮 [2048-multilanguage](https://github.com/chandreshkkhatri/2048-multilanguage) - 2048 game in multiple languages
 - 🧵 [reweave](https://github.com/chandreshkkhatri/reweave) - automated content creation workflows
 
-#### Classic Developer Projects
+#### 🛠️ Classic Developer Projects
 
 - ⏰ [timer-app](https://github.com/chandreshkkhatri/timer-app) - A simple timer app styled with radix ui
 - 🎵 [vibe-jam](https://github.com/chandreshkkhatri/vibe-jam) - vibe coded common developer projects
