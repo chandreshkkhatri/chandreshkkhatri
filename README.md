@@ -18,6 +18,7 @@
 - ⏰ [timer-app](https://github.com/chandreshkkhatri/timer-app) - A simple timer app styled with radix ui
 - 🎵 [vibe-jam](https://github.com/chandreshkkhatri/vibe-jam) - vibe coded common developer projects
 - 📝 [ReMark](https://github.com/chandreshkkhatri/ReMark) - markdown to html convertor
+- 🃏 [swipe-cards](https://github.com/chandreshkkhatri/swipe-cards) - swipe cards app
 
 Find more about me at [chandreshkkhatri.github.io](https://chandreshkkhatri.github.io)
 
