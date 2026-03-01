@@ -4,14 +4,17 @@
 
 #### 🌱 I’m currently working on ...
 
-- 🤖 [lucidity.chat](https://lucidity.chat) - AI chat app with forkable chat
-- 📈 [spikeycoins.com](https://spikeycoins.com) - trading platform optimized for trading best practices
+- 🤖 [lucidity.chat](https://www.lucidity.chat) - AI chat app with forkable chat
+- 📈 [spikeycoins.com](https://www.spikeycoins.com) - trading platform optimized for trading best practices
+- 🧠 [reweave](https://github.com/chandreshkkhatri/reweave) - AI powered content creation workflows
 
 #### 🔭 Other Projects
 
 - ♟️ [chess-rebundled](https://chess.rebundled.co) - chess notation learning app
 - 🎮 [2048-multilanguage](https://github.com/chandreshkkhatri/2048-multilanguage) - 2048 game in multiple languages
 - 🧵 [reweave](https://github.com/chandreshkkhatri/reweave) - automated content creation workflows
+- 🌾 [openmandi.com](https://www.openmandi.com) - Crypto based bullion trading platform
+
 
 #### 🛠️ Classic Developer Projects
 
