@@ -13,7 +13,7 @@
 - ♟️ [chess-rebundled](https://chess.rebundled.co) - chess notation learning app
 - 🎮 [2048-multilanguage](https://github.com/chandreshkkhatri/2048-multilanguage) - 2048 game in multiple languages
 - 🧵 [reweave](https://github.com/chandreshkkhatri/reweave) - automated content creation workflows
-- 🌾 [openmandi.com](https://www.openmandi.com) - Crypto based bullion trading platform
+- 🌾 [OpenBullion]() - Crypto based bullion trading platform
 
 
 #### 🛠️ Classic Developer Projects
